@@ -1,4 +1,4 @@
-# sql-data-warehouse-project
+# Data Warehouse and analytics project
 🏗️ Data Warehouse and analytics project
 Welcome to the  Data Warehouse repository. This project demonstrates the implementation of a structured data warehouse environment designed to transform fragmented raw data into high-signal business intelligence.
 
