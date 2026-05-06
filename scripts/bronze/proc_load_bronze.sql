@@ -147,7 +147,7 @@ SET @batch_end_time = GETDATE();
 		PRINT '=========================================='
 END TRY
 BEGIN CATCH
-    PRINT '=========================================='
+        PRINT '=========================================='
 		PRINT 'ERROR OCCURED DURING LOADING BRONZE LAYER'
 		PRINT 'Error Message' + ERROR_MESSAGE();
 		PRINT 'Error Message' + CAST (ERROR_NUMBER() AS NVARCHAR);
