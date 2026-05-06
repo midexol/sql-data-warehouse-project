@@ -8,7 +8,7 @@ By applying data engineering principles—including schema design, ETL (Extract,
 
 ## Project Requirements
 
-## building the Data Warehouse (Data Engineering)
+## Building the Data Warehouse (Data Engineering)
 
 ## Objective
 Develop a modern data warehouse using SQL Server to consolidate data, enabling analytical reporting and informed decision-making.
